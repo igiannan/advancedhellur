@@ -28,6 +28,11 @@ td {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
+#tableon {
+    color: rgb(235, 235, 235);
+    font-family: 'times new roman', times, serif; 
+}
+
 .footer {
   position: fixed;
   bottom: 0;
