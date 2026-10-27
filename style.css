@@ -1,0 +1,45 @@
+
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+td {
+  border: 1px solid #ddd;
+  padding: 12px;
+  text-align: left;
+}
+
+#thedog2 {
+  text-align: center;
+  color: rgb(230, 23, 137);
+}
+
+#thedog3 {
+  text-align: center;
+  color: rgb(230, 23, 137);
+  font-style: italic;
+}
+
+#headercenter {
+    text-align: center;
+    color: rgb(225, 165, 217);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+}
+
+#left { 
+float: left; 
+width: 120px; 
+background-color: #CB87AF; 
+border-radius: 20px; 
+}
+
+#main { 
+padding-left: 130px; margin:5px; 
+}
